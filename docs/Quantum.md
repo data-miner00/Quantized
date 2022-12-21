@@ -1,0 +1,13 @@
+- [Cirq](https://quantumai.google/cirq)
+- [Qiskit](https://qiskit.org/)
+- [Tensorflow Quantum](https://www.tensorflow.org/quantum)
+- [IBM's Quantum experience](https://quantum-computing.ibm.com/)
+- [Qiskit textbook](https://qiskit.org/textbook/preface.html)
+- [Dwave Leap login](https://cloud.dwavesys.com/leap/login/?next=%2Fleap%2F)
+- [DWave's Ocean docs](https://docs.ocean.dwavesys.com/en/latest/index.html)
+- [DWave QUBO Pokemon I Choose You Webinar](https://www.youtube.com/watch?v=CSLm1HrY6UE&t=0s)
+- [Pennylane](https://pennylane.ai/)
+- [QuTiP](https://qutip.org/)
+- [ProjectQ](https://projectq.ch/)
+
+Adopted from [Anastasia Marchenkova](https://www.youtube.com/watch?v=j9doC_msZe4)

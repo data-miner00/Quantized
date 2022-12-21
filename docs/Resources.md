@@ -2,3 +2,5 @@
 - [Microsoft Quantum Development Kit: Introduction and step-by-step demo](https://www.youtube.com/watch?v=v7b4J2INq9c)
 - [microsoft/Quantum - Github](https://github.com/microsoft/Quantum)
 - [Azure Quantum documentation (preview)](https://learn.microsoft.com/en-us/azure/quantum/)
+- [Qsharp Community](https://qsharp.community/)
+- [awesome qsharp](https://github.com/ebraminio/awesome-qsharp)
